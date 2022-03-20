@@ -35,4 +35,4 @@ How accurate is your model? Should ANZ use it to segment customers (for whom it 
 
 For a challenge: build a decision-tree based model to predict salary. Does it perform better? How would you accurately test the performance of this model?
 
-`Solution Notebook` : https://github.com/SanjayShetty01/ANZ-Data/blob/main/Tast-2/ANZBank_Data.ipynb
+`Solution Notebook` : [Notebook](https://github.com/SanjayShetty01/ANZ-Data/blob/main/Tast-2/ANZBank_Data.ipynb)
