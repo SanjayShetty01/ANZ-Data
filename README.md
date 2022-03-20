@@ -4,7 +4,7 @@ The tasks are based on a synthesised transaction dataset containing 3 months’ 
 
 The dataset is designed to simulate realistic transaction behaviours that are observed in ANZ’s real transaction data.
 
-### Task 1: 
+### Task 1: Exploratory Data Analysis
 
 Load the transaction dataset below into an analysis tool of your choice (Excel, R, SAS, Tableau, or similar)
 
@@ -21,7 +21,7 @@ For a challenge – what insights can you draw from the location information pro
 `Solutin Plot`: [Plots](https://github.com/SanjayShetty01/ANZ-Data/tree/main/plot)
              
              
-### Task 2:
+### Task 2: Predictive Analytics
 
 For this task, you’ll likely need to use statistical software such as R, SAS, or Python.
 
